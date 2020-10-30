@@ -17,6 +17,6 @@ run bot.py
 ```
 
 ## Inspiration
-Gilfoyle's AI Chat Bot from Silicon Valley Season 6
+Gilfoyle's AI Chat Bot from Silicon Valley Season 6<br/>
 [son-of-anton](https://www.youtube.com/watch?v=IWIusSdn1e4)
 
