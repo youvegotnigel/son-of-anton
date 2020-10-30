@@ -13,6 +13,7 @@ pip install python-dotenv
 pip install flask
 pip install slackeventsapi
 start ngrok
+ngrok http 5000
 run bot.py
 ```
 
