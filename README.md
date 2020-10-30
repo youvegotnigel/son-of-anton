@@ -1,4 +1,5 @@
-# Personal Slack AI Bot
+# Personal Slack Bot
+
 
 [slack api](https://api.slack.com/)<br/>
 [ngrok](https://ngrok.com/)<br/>
@@ -14,4 +15,8 @@ pip install slackeventsapi
 start ngrok
 run bot.py
 ```
+
+## Inspiration
+Gilfoyle's AI Chat Bot from Silicon Valley Season 6
+[son-of-anton](https://www.youtube.com/watch?v=IWIusSdn1e4)
 
